@@ -1,0 +1,48 @@
+*{margin:0px; padding: 0%;}
+
+#contenedor{
+    width: 90%;
+    height:2300px;
+    background-color:white;
+    margin:auto;
+}
+
+body{
+    background-color:black;
+}
+
+#comprartickets{
+    color: hsl(137, 59%, 49%)
+       
+}
+
+#comprartickets:hover{
+    font-size: larger;
+    border: 3px solid hsl(137, 59%, 49%);
+    border-radius: 5px;
+    padding: 5px;    
+}
+
+.carousel-item{
+    filter:brightness(0.4);
+}
+
+#carruseltexto{
+   color:white;
+   text-align: end;
+   padding-right: 3%;
+   justify-content: auto;
+}
+
+span{
+    border-bottom: 1px dotted;
+}
+
+#enviar{
+    background-color:rgb(113, 218, 61);
+    border-color: rgb(113, 218, 61);
+    color:white
+       
+ }
+
+

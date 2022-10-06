@@ -12,7 +12,7 @@ body{
 }
 
 #comprartickets{
-    color: hsl(137, 59%, 49%)
+    color: hsl(137, 59%, 49%);
        
 }
 
@@ -41,7 +41,7 @@ span{
 #enviar{
     background-color:rgb(113, 218, 61);
     border-color: rgb(113, 218, 61);
-    color:white
+    color:white;
        
  }
 
